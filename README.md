@@ -16,7 +16,7 @@ The primary objective is to implement **binary class image segmentation** to cor
 
 ## Output 
 
-![User Interface for Binary Class Image Segmentation](/image/Binary)
+![User Interface for Binary Class Image Segmentation](images/Binary.png)
 
 ## Multiclass Image Segmentation of Aerial Imagery
 
@@ -27,7 +27,7 @@ This project involves multiclass image segmentation of aerial imagery captured b
 - **Total Images:** 72 images, grouped into 6 larger tiles.
 - **Classes:** The images are segmented into 6 distinct classes, each represented with a unique color code to facilitate differentiation.
   
-![Colour codes for Various Classes](/image/Binary)
+![Colour codes for Various Classes](images/Colourcodes.png)
   
 ### Project Aim
 
@@ -55,7 +55,7 @@ The primary objective is to classify all the different classes in the aerial ima
 - The color-coded classes help in distinguishing between different segments of the aerial images, improving the clarity and accuracy of the segmentation task.
 
 ## Output 
-![User Interface for MultiClass Image Segmentation](/image/Multiclass)
+![User Interface for MultiClass Image Segmentation](images/Multiclass.png)
 
 ## How to Run Streamlit
 streamlit run main.py
